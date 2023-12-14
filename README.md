@@ -14,4 +14,4 @@
 
 ## More Details
 
-- There are some other codes in the folder[preprocessing](./pre_processing/). The most important one is the [undistort function](./pre_processing/Undistort.py).
+- There are some other codes in the folder[preprocessing](./pre_processing/). The most important one is the [undistort function](./pre_processing/Undistort.py), mainly for the most left camera fixing. That image after undistortion is ![image1](./labc1_2.jpg)
